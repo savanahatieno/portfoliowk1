@@ -69,3 +69,32 @@ body{
     color: rgb(8, 8, 8);
     text-align: center;
 }
+#allsection{
+    background-image: url(../images/books-business-computer-connection-459654.jpg);
+    background-size: cover;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 0 20px;
+    background-repeat: no-repeat;
+}
+#background{
+    background-image: url(../images/top-view-photo-of-keyboard-near-wallet-and-mobile-phone-1420702.jpg);
+    background-size: cover;
+    background-position:center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 0 20px;
+    
+}
+.oneactive{
+    list-style-type: none;
+    text-decoration: none;
+}
